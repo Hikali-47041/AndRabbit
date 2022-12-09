@@ -10,7 +10,7 @@
 ```
 
 ### 02 
-[#ふせんお絵かきアドベントカレンダー](https://adventar.org/calendars/7431) 用につくった作品
+[#ふせんお絵かきアドカレ](https://adventar.org/calendars/7431) 用につくった作品
 
 ```
           _         _    +- - - - +
