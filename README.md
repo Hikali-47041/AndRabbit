@@ -1,4 +1,4 @@
 # AndRabbit
 Lab's mascot character.
 
-![andrabbit.png](andrabbit.png)
+![andrabbit_background_fill.png](andrabbit_background_fill.png)
